@@ -1,0 +1,11 @@
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\bin\Debug\net8.0\PlanesAlimentacion.Domain.deps.json
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\bin\Debug\net8.0\PlanesAlimentacion.Domain.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\bin\Debug\net8.0\PlanesAlimentacion.Domain.pdb
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\PlanesAlimentacion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\PlanesAlimentacion.Domain.AssemblyInfoInputs.cache
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\PlanesAlimentacion.Domain.AssemblyInfo.cs
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\PlanesAlimentacion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\PlanesAlimentacion.Domain.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\refint\PlanesAlimentacion.Domain.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\PlanesAlimentacion.Domain.pdb
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Domain\obj\Debug\net8.0\ref\PlanesAlimentacion.Domain.dll

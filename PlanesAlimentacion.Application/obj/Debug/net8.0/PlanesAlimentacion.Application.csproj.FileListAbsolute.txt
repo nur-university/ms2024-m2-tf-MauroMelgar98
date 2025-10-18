@@ -1,0 +1,17 @@
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.csproj.AssemblyReference.cache
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.AssemblyInfoInputs.cache
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.AssemblyInfo.cs
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.csproj.CoreCompileInputs.cache
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\bin\Debug\net8.0\PlanesAlimentacion.Application.deps.json
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\bin\Debug\net8.0\PlanesAlimentacion.Application.runtimeconfig.json
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\bin\Debug\net8.0\PlanesAlimentacion.Application.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\bin\Debug\net8.0\PlanesAlimentacion.Application.pdb
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\bin\Debug\net8.0\PlanesAlimentacion.Domain.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\bin\Debug\net8.0\PlanesAlimentacion.Domain.pdb
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAl.8B394357.Up2Date
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\refint\PlanesAlimentacion.Application.dll
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.pdb
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\PlanesAlimentacion.Application.genruntimeconfig.cache
+C:\Users\Angeles Hurtado\source\repos\PlanesAlimentacion\PlanesAlimentacion.Application\obj\Debug\net8.0\ref\PlanesAlimentacion.Application.dll

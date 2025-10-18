@@ -1,0 +1,1126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\commandscrearentrega\\createntregahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\commandscrearentrega\\createntregahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\entities\\entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\entities\\entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\entities\\planalimentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\entities\\planalimentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\planesalimentacion.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\planesalimentacion.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\planesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\planesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\planesalimentacion.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\planesalimentacion.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\commandscrearentrega\\crearentregacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\commandscrearentrega\\crearentregacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\planesalimentacion.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\planesalimentacion.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\entities\\estadoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\entities\\estadoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\entities\\direccionentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\entities\\direccionentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\planesalimentacion.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\planesalimentacion.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\inventory.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\inventory.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\transactions\\createtransaction\\createtransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\transactions\\createtransaction\\createtransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\respositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\respositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\userpersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\userpersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\domainmodel\\config\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\domainmodel\\config\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\items\\eventhandlers\\updatestockwhentransactioncompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\items\\eventhandlers\\updatestockwhentransactioncompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\respositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\respositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\transactionpersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\transactionpersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\transactionitempersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\transactionitempersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\domainmodel\\config\\transactionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\domainmodel\\config\\transactionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\migrations\\persistencedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\migrations\\persistencedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\persistencemodel\\persistencedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\persistencemodel\\persistencedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\respositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\respositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\itempersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\persistencemodel\\efcoreentities\\itempersistencemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\items\\getitems\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\items\\getitems\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.webapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A56B7-39E4-4F8F-9A3D-4174B31A9EF6}|src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj|solutionrelative:src\\inventory.webapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\domainmodel\\config\\itemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\domainmodel\\config\\itemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\queries\\items\\getitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\queries\\items\\getitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\persistence\\domainmodel\\domaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\persistence\\domainmodel\\domaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\transactions\\createtransaction\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\transactions\\createtransaction\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\items\\createitem\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\items\\createitem\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\transactions\\completetransaction\\completetransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\transactions\\completetransaction\\completetransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\transactions\\completetransaction\\completetransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\transactions\\completetransaction\\completetransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\migrations\\20251009203436_initialstructure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\migrations\\20251009203436_initialstructure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.infrastructure\\migrations\\20251009203436_initialstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EE521-448A-4023-8F4F-12D9098C3E91}|src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj|solutionrelative:src\\inventory.infrastructure\\migrations\\20251009203436_initialstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\items\\createitem\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\items\\createitem\\createitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.application\\items\\getitems\\getitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDD8C8A-95C1-4E29-AD76-1A88891B8579}|src\\Inventory.Application\\PlanesAlimentacion.Application.csproj|solutionrelative:src\\inventory.application\\items\\getitems\\getitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\events\\transactioncompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\events\\transactioncompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\events\\transactionreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\events\\transactionreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\events\\transactionitemunreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\events\\transactionitemunreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\events\\transactionitemreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\events\\transactionitemreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\exceptions\\transactioncreationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\exceptions\\transactioncreationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\events\\reservationtransactionfailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\events\\reservationtransactionfailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\shared\\quantityvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\shared\\quantityvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\transactions\\itransactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\transactions\\itransactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\items\\itemerros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\items\\itemerros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\items\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\items\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\items\\icoststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\items\\icoststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\shared\\costvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\shared\\costvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|c:\\users\\angeles hurtado\\source\\repos\\ms2024-m2-tf-mauromelgar98\\src\\inventory.domain\\items\\averagecoststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB75E966-6A79-41EC-B8FF-EC24E76BAB0A}|src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj|solutionrelative:src\\inventory.domain\\items\\averagecoststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlanesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\PlanesDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\PlanesDbContext.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\PlanesDbContext.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\PlanesDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:05:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatEntregaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\CommandsCrearEntrega\\CreatEntregaHandler.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\CommandsCrearEntrega\\CreatEntregaHandler.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\CommandsCrearEntrega\\CreatEntregaHandler.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\CommandsCrearEntrega\\CreatEntregaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:02:30.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanAlimentacion.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\PlanAlimentacion.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Entities\\PlanAlimentacion.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\PlanAlimentacion.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Entities\\PlanAlimentacion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:17:47.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanesAlimentacion.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj",
+              "RelativeToolTip": "src\\Inventory.WebApi\\PlanesAlimentacion.WebApi.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T03:59:42.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\Inventory.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T03:41:57.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entrega.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\Entrega.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Entities\\Entrega.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\Entrega.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Entities\\Entrega.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:07:11.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Inventory.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:47:13.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearEntregaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\CommandsCrearEntrega\\CrearEntregaCommand.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\CommandsCrearEntrega\\CrearEntregaCommand.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\CommandsCrearEntrega\\CrearEntregaCommand.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\CommandsCrearEntrega\\CrearEntregaCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:01:46.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EstadoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\EstadoEntrega.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Entities\\EstadoEntrega.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\EstadoEntrega.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Entities\\EstadoEntrega.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:08:34.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DireccionEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\DireccionEntrega.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Entities\\DireccionEntrega.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Entities\\DireccionEntrega.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Entities\\DireccionEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:07:59.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlanesAlimentacion.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\PlanesAlimentacion.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T03:58:10.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlanesAlimentacion.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj",
+              "RelativeToolTip": "src\\Inventory.Domain\\PlanesAlimentacion.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T04:06:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanesAlimentacion.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\PlanesAlimentacion.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\PlanesAlimentacion.Application.csproj",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\PlanesAlimentacion.Application.csproj",
+              "RelativeToolTip": "src\\Inventory.Application\\PlanesAlimentacion.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T03:32:38.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\Respositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\Respositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\Respositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\Respositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:49:32.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserPersistenceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\UserPersistenceModel.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\UserPersistenceModel.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\UserPersistenceModel.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\UserPersistenceModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:49:26.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:43:14.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inventory.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Inventory.WebApi.http",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\Inventory.WebApi.http",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Inventory.WebApi.http",
+              "RelativeToolTip": "src\\Inventory.WebApi\\Inventory.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-18T03:44:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\UserConfig.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\UserConfig.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\UserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:49:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateTransactionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionHandler.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionHandler.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionHandler.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:42:37.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateStockWhenTransactionCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\EventHandlers\\UpdateStockWhenTransactionCompleted.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Items\\EventHandlers\\UpdateStockWhenTransactionCompleted.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\EventHandlers\\UpdateStockWhenTransactionCompleted.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Items\\EventHandlers\\UpdateStockWhenTransactionCompleted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:48:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:48:45.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\Respositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\Respositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\Respositories\\TransactionRepository.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\Respositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:48:32.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionPersistenceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionPersistenceModel.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionPersistenceModel.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionPersistenceModel.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionPersistenceModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:48:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionItemPersistenceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionItemPersistenceModel.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionItemPersistenceModel.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionItemPersistenceModel.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\TransactionItemPersistenceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:47:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "src\\Inventory.WebApi\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:47:41.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\TransactionConfig.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\TransactionConfig.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\TransactionConfig.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\TransactionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:47:27.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersistenceDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Migrations\\PersistenceDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Migrations\\PersistenceDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Migrations\\PersistenceDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Migrations\\PersistenceDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAgwMUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:46:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersistenceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\PersistenceDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\PersistenceDbContext.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\PersistenceDbContext.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\PersistenceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:45:57.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "src\\Inventory.WebApi\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:45:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\Respositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\Respositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\Respositories\\ItemRepository.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\Respositories\\ItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:45:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemPersistenceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\ItemPersistenceModel.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\ItemPersistenceModel.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\ItemPersistenceModel.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\PersistenceModel\\EFCoreEntities\\ItemPersistenceModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:45:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\GetItems\\ItemDto.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Items\\GetItems\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\GetItems\\ItemDto.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Items\\GetItems\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:45:14.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.WebApi\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.WebApi\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "src\\Inventory.WebApi\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:45:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ItemConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\ItemConfig.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\ItemConfig.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\ItemConfig.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\Config\\ItemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:44:49.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\IDatabase.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\IDatabase.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:44:27.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetItemsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Queries\\Items\\GetItemsHandler.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Queries\\Items\\GetItemsHandler.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Queries\\Items\\GetItemsHandler.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Queries\\Items\\GetItemsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:44:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DomainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\DomainDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\DomainDbContext.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Persistence\\DomainModel\\DomainDbContext.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Persistence\\DomainModel\\DomainDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:43:54.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:42:49.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionCommand.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionCommand.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Transactions\\CreateTransaction\\CreateTransactionCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:42:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\CreateItem\\CreateItemCommand.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Items\\CreateItem\\CreateItemCommand.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\CreateItem\\CreateItemCommand.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Items\\CreateItem\\CreateItemCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:42:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CompleteTransactionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionHandler.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionHandler.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionHandler.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:42:11.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CompleteTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionCommand.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionCommand.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Transactions\\CompleteTransaction\\CompleteTransactionCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:42:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251009203436_InitialStructure.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.Designer.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.Designer.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.Designer.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.Designer.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAwwMgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:40:45.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251009203436_InitialStructure.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.cs",
+              "RelativeToolTip": "src\\Inventory.Infrastructure\\Migrations\\20251009203436_InitialStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:40:38.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\GetItems\\GetItemsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Items\\GetItems\\GetItemsQuery.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\GetItems\\GetItemsQuery.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Items\\GetItems\\GetItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:35:10.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\CreateItem\\CreateItemHandler.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Application\\Items\\CreateItem\\CreateItemHandler.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Application\\Items\\CreateItem\\CreateItemHandler.cs",
+              "RelativeToolTip": "src\\Inventory.Application\\Items\\CreateItem\\CreateItemHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:21:47.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TransactionItem.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionItem.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\TransactionItem.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionItem.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\TransactionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Items\\Item.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\Item.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Transaction.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Transaction.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TransactionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionFactory.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\TransactionFactory.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionFactory.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\TransactionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TransactionCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionCompleted.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Events\\TransactionCompleted.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionCompleted.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Events\\TransactionCompleted.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:02.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Users\\User.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionType.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionType.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\TransactionStatus.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:44.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TransactionReserved.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionReserved.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Events\\TransactionReserved.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionReserved.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Events\\TransactionReserved.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:38.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TransactionItemUnreserved.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionItemUnreserved.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Events\\TransactionItemUnreserved.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionItemUnreserved.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Events\\TransactionItemUnreserved.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TransactionItemReserved.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionItemReserved.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Events\\TransactionItemReserved.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\TransactionItemReserved.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Events\\TransactionItemReserved.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:27.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TransactionCreationException.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Exceptions\\TransactionCreationException.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Exceptions\\TransactionCreationException.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Exceptions\\TransactionCreationException.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Exceptions\\TransactionCreationException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:29:10.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ReservationTransactionFailed.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\ReservationTransactionFailed.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\Events\\ReservationTransactionFailed.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\Events\\ReservationTransactionFailed.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\Events\\ReservationTransactionFailed.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "QuantityValue.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Shared\\QuantityValue.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Shared\\QuantityValue.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Shared\\QuantityValue.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Shared\\QuantityValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Users\\IUserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\ITransactionRepository.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:21.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ITransactionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\ITransactionFactory.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Transactions\\ITransactionFactory.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Transactions\\ITransactionFactory.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Transactions\\ITransactionFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:14.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ItemErros.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\ItemErros.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Items\\ItemErros.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\ItemErros.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Items\\ItemErros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Items\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\IItemRepository.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Items\\IItemRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ICostStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\ICostStrategy.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Items\\ICostStrategy.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\ICostStrategy.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Items\\ICostStrategy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CostValue.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Shared\\CostValue.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Shared\\CostValue.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Shared\\CostValue.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Shared\\CostValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:15.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AverageCostStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\AverageCostStrategy.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Items\\AverageCostStrategy.cs",
+              "ToolTip": "C:\\Users\\Angeles Hurtado\\source\\repos\\ms2024-m2-tf-MauroMelgar98\\src\\Inventory.Domain\\Items\\AverageCostStrategy.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Items\\AverageCostStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:27:03.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
